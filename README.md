@@ -1,0 +1,1 @@
+This project is a simple Student Grade Management System made using Python and SQLite. It allows users to add students, enter their marks, update marks, and view basic details using a menu-based program. The goal of this project is to practice basic Python, database handling, and simple CRUD operations. It is beginner-friendly and easy to understand.
